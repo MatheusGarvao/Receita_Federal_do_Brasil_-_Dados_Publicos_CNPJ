@@ -2,7 +2,7 @@
 CREATE DATABASE "Dados_RFB"
     WITH
     OWNER = postgres
-    ENCODING = 'UTF8'
+    ENCODING = 'latin1'
     CONNECTION LIMIT = -1;
 
 COMMENT ON DATABASE "Dados_RFB"
